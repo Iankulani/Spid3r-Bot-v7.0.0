@@ -25,4 +25,5 @@ cd Spid3r-Bot-v7.0.0
 ```bash
 python Spid3r-Bot-v7.0.0.py
 ```
-  
+# Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=Iankulani/Spid3r-Bot-v7.0.0&type=Date)](https://star-history.com/#Iankulani/Spid3r-Bot-v7.0.0&Date)
